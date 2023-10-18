@@ -1,0 +1,230 @@
+*Filesystem info*
+udev
+tmpfs
+/dev/sda1
+tmpfs
+tmpfs
+tmpfs
+/dev/loop0
+/dev/loop3
+/dev/loop5
+/dev/loop6
+/dev/loop7
+/dev/loop8
+/dev/loop9
+/dev/loop11
+/dev/loop12
+/dev/loop14
+/dev/loop15
+/dev/loop18
+/dev/loop19
+/dev/loop20
+/dev/loop21
+/dev/loop22
+/dev/loop24
+tmpfs
+tmpfs
+/dev/loop25
+/dev/loop23
+/dev/loop26
+/dev/loop1
+/dev/loop17
+/dev/loop27
+/dev/loop2
+/dev/loop10
+*C2 Server info*
+total 60
+-rw------- 1 plitoo   plitoo      0 Jun 11 05:11 config-err-GZGFxJ
+drwxr-xr-x 2 logstash logstash 4096 Jun 19 07:52 hsperfdata_logstash
+drwx------ 2 root     root     4096 Jun 11 07:06 pip-5_x0lane-build
+drwx------ 2 root     root     4096 Jun 11 07:06 pip-ii0od_u2-build
+drwx------ 2 root     root     4096 Jun 11 07:04 pip-py4ms3tu-build
+drwx------ 6 root     root     4096 Jun 17 11:27 snap-private-tmp
+drwx------ 2 plitoo   plitoo   4096 Jun 11 05:11 ssh-EOG80brO4fVa
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-bolt.service-fvhApl
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-colord.service-OE3AbS
+drwx------ 3 root     root     4096 Jun 19 06:56 systemd-private-95f88923ce9b4986990c2222e999cba6-fwupd.service-CxQevr
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-ModemManager.service-Ay2hY8
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-rtkit-daemon.service-O4etch
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-systemd-resolved.service-RTgRm4
+drwx------ 3 root     root     4096 Jun 11 05:10 systemd-private-95f88923ce9b4986990c2222e999cba6-systemd-timesyncd.service-DktXRe
+drwxrwxrwt 2 root     root     4096 Jun 11 05:10 VMwareDnD
+drwx------ 2 root     root     4096 Jun 11 05:10 vmware-root_713-4290166671
+total 0
+srw------- 1 plitoo plitoo 0 Jun 11 05:11 agent.2397
+total 0
+srwxrwxrwx 1 plitoo plitoo 0 Jun 11 05:11 X0
+srwxrwxr-x 1 gdm    gdm    0 Jun 11 05:10 X1024
+total 0
+total 0
+total 0
+srwxrwxrwx 1 gdm    gdm    0 Jun 11 05:10 1214
+srwxrwxrwx 1 plitoo plitoo 0 Jun 11 05:11 2397
+total 32
+-rw------- 1 logstash logstash 32768 Jun 19 07:52 7711
+total 0
+total 0
+total 20
+-rw-r--r-- 1 root root 10918 Jun 18 10:56 index.html
+-rw-r--r-- 1 root root   612 Apr  6 23:20 index.nginx-debian.html
+total 0
+*Normally Path info*
+/var
+/bin
+/snap/gnome-42-2204/105/usr/bin
+/snap/gnome-42-2204/111/usr/bin
+/snap/snapd/19122/bin
+/snap/snapd/19122/usr/bin
+/snap/snapd/19361/bin
+/snap/snapd/19361/usr/bin
+/snap/core22/634/bin
+/snap/core22/634/usr/bin
+/snap/core22/634/usr/share/probert/bin
+/snap/core22/634/usr/share/sensible-utils/bin
+/snap/core22/750/bin
+/snap/core22/750/usr/bin
+/snap/core22/750/usr/share/probert/bin
+/snap/core22/750/usr/share/sensible-utils/bin
+/snap/bin
+/snap/gnome-system-monitor/181/usr/bin
+/snap/gnome-system-monitor/184/usr/bin
+/snap/core18/2751/bin
+/snap/core18/2751/usr/bin
+/snap/core18/2751/usr/share/probert/bin
+/snap/core18/2751/usr/share/sensible-utils/bin
+/snap/core18/2785/bin
+/snap/core18/2785/usr/bin
+/snap/core18/2785/usr/share/probert/bin
+/snap/core18/2785/usr/share/sensible-utils/bin
+/snap/gnome-3-38-2004/137/usr/bin
+/snap/gnome-3-38-2004/140/usr/bin
+/snap/bare/5/usr/bin
+/snap/gnome-3-34-1804/90/usr/bin
+/snap/gnome-3-34-1804/93/usr/bin
+/snap/gnome-calculator/934/usr/bin
+/snap/gnome-calculator/945/usr/bin
+/snap/core20/1879/bin
+/snap/core20/1879/usr/bin
+/snap/core20/1879/usr/share/probert/bin
+/snap/core20/1879/usr/share/sensible-utils/bin
+/snap/core20/1891/bin
+/snap/core20/1891/usr/bin
+/snap/core20/1891/usr/share/probert/bin
+/snap/core20/1891/usr/share/sensible-utils/bin
+/snap/gnome-characters/789/usr/bin
+/snap/gnome-characters/785/usr/bin
+/snap/gnome-logs/119/usr/bin
+/snap/gnome-logs/115/usr/bin
+/home
+/home/plitoo/GRR_NEW/bin
+/home/plitoo/.local/bin
+/home/plitoo/grr/grr/server/grr_response_server/bin
+/home/plitoo/GRR_connect/bin
+/usr/sbin
+/usr/share/logstash/jdk/bin
+/usr/share/logstash/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/power_assert-1.1.3/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/racc-1.5.2-java/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/xmlrpc-0.3.0/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/jar-dependencies-0.4.1/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/net-telnet-0.1.1/bin
+/usr/share/logstash/vendor/jruby/lib/ruby/gems/shared/gems/rake-12.3.3/bin
+/usr/share/logstash/vendor/jruby/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/fpm-1.14.2/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/puma-5.6.5-java/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/elasticsearch-7.17.7/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/cabin-0.9.0/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/dotenv-2.7.6/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/tilt-2.0.11/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/mustache-0.99.8/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/aws-sdk-core-2.11.632/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/bundler-2.3.18/lib/bundler/templates/newgem/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/rack-2.2.6.2/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/pleaserun-0.0.32/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/sequel-5.53.0/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/public_suffix-3.1.1/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/nokogiri-1.12.5-java/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/aws-sdk-v1-1.67.0/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/gelfd2-0.4.1/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/back_pressure-1.0.0/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/pry-0.14.2-java/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/jmespath-1.6.2/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/rake-12.3.3/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/coderay-1.1.3/bin
+/usr/share/logstash/vendor/bundle/jruby/2.5.0/gems/treetop-1.6.12/bin
+/usr/share/elasticsearch/jdk/bin
+/usr/share/elasticsearch/modules/x-pack-ml/platform/linux-x86_64/bin
+/usr/share/elasticsearch/bin
+/usr/share/sensible-utils/bin
+/usr/share/doc/popularity-contest/examples/bin
+/usr/share/kibana/bin
+/usr/share/kibana/node/bin
+/usr/share/kibana/node_modules/quote-stream/bin
+/usr/share/kibana/node_modules/nopt/bin
+/usr/share/kibana/node_modules/esprima/bin
+/usr/share/kibana/node_modules/node-gyp/bin
+/usr/share/kibana/node_modules/typescript/bin
+/usr/share/kibana/node_modules/js-yaml/bin
+/usr/share/kibana/node_modules/js-yaml/node_modules/esprima/bin
+/usr/share/kibana/node_modules/elastic-apm-node/node_modules/semver/bin
+/usr/share/kibana/node_modules/mustache/bin
+/usr/share/kibana/node_modules/uglify-js/bin
+/usr/share/kibana/node_modules/pbf/bin
+/usr/share/kibana/node_modules/ast-transform/node_modules/escodegen/bin
+/usr/share/kibana/node_modules/lz-string/bin
+/usr/share/kibana/node_modules/install-artifact-from-github/bin
+/usr/share/kibana/node_modules/handlebars/bin
+/usr/share/kibana/node_modules/resolve/bin
+/usr/share/kibana/node_modules/crc-32/bin
+/usr/share/kibana/node_modules/uuid/bin
+/usr/share/kibana/node_modules/node-jose/node_modules/uuid/dist/bin
+/usr/share/kibana/node_modules/semver/bin
+/usr/share/kibana/node_modules/which/bin
+/usr/share/kibana/node_modules/printj/bin
+/usr/share/kibana/node_modules/normalize-package-data/node_modules/semver/bin
+/usr/share/kibana/node_modules/hjson/bin
+/usr/share/kibana/node_modules/brfs/bin
+/usr/share/kibana/node_modules/cross-env/src/bin
+/usr/share/kibana/node_modules/topojson-client/bin
+/usr/share/kibana/node_modules/markdown-it/bin
+/usr/share/kibana/node_modules/acorn/bin
+/usr/share/kibana/node_modules/mkdirp/bin
+/usr/share/kibana/node_modules/escodegen/bin
+/usr/share/kibana/node_modules/escodegen/node_modules/esprima/bin
+/usr/share/kibana/node_modules/@elastic/eui/.ci/bin
+/usr/share/kibana/node_modules/@elastic/eui/node_modules/uuid/dist/bin
+/usr/share/kibana/node_modules/@elastic/charts/node_modules/uuid/bin
+/usr/share/filebeat/bin
+/usr/lib/initramfs-tools/bin
+/usr/lib/klibc/bin
+/usr/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-146/tools/testing/selftests/rcutorture/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-148/tools/testing/selftests/rcutorture/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-150/tools/testing/selftests/rcutorture/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-84/tools/testing/selftests/rcutorture/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-149/tools/testing/selftests/rcutorture/bin
+/usr/src/linux-hwe-5.4-headers-5.4.0-147/tools/testing/selftests/rcutorture/bin
+/usr/local/bin
+/dev
+/tmp
+/etc
+*Network info*
+Active  Internet  connections  (servers               and                    established)
+Proto   Recv-Q    Send-Q       Local                  Address                Foreign       Address  State  PID/Program  name
+tcp     0         0            127.0.0.53:53          0.0.0.0:*              LISTEN        -
+tcp     0         0            0.0.0.0:22             0.0.0.0:*              LISTEN        -
+tcp     0         0            127.0.0.1:631          0.0.0.0:*              LISTEN        -
+tcp     0         0            0.0.0.0:5601           0.0.0.0:*              LISTEN        -
+tcp     0         0            0.0.0.0:80             0.0.0.0:*              LISTEN        -
+tcp     0         1            192.168.246.179:48806  192.168.246.148:9200   SYN_SENT      -
+tcp     0         236          192.168.246.179:22     192.168.246.144:48540  ESTABLISHED   -
+tcp6    0         0            ::1:631                :::*                   LISTEN        -
+tcp6    0         0            :::80                  :::*                   LISTEN        -
+udp     0         0            127.0.0.53:53          0.0.0.0:*              -
+udp     0         0            0.0.0.0:68             0.0.0.0:*              -
+udp     0         0            0.0.0.0:631            0.0.0.0:*              -
+udp     0         0            0.0.0.0:5353           0.0.0.0:*              -
+udp     0         0            0.0.0.0:36378          0.0.0.0:*              -
+udp6    0         0            :::60085               :::*                   -
+udp6    0         0            :::5353                :::*                   -
