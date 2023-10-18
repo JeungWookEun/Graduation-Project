@@ -1,0 +1,70 @@
+{
+    "items": [
+      {
+        "client_id": "C.ca0a56f1e99762e8",
+        "payload": {
+          "stat_entry": {
+            "st_mode": 33206,
+            "st_ino": 9570149208185216,
+            "st_dev": 580475973,
+            "st_nlink": 1,
+            "st_uid": 0,
+            "st_gid": 0,
+            "st_size": 15,
+            "st_atime": 1691764700,
+            "st_mtime": 1691764346,
+            "st_ctime": 1691764700,
+            "st_flags_osx": 0,
+            "st_flags_linux": 0,
+            "pathspec": {
+              "pathtype": "OS",
+              "path": "/C:/app_apk/diva-apk-file-main/test/123/abc.txt",
+              "path_options": "CASE_LITERAL"
+            }
+          },
+          "hash_entry": {
+            "sha256": "8osXxChGDRypSRAAvp4D91zD4a8+lsfumoGu/fVLZyA=",
+            "sha1": "LdzPuPuj6EGls6PzDPE16kgCH8o=",
+            "md5": "4nfdHgVoiiLjd+JaPa5d4Q==",
+            "num_bytes": 15
+          }
+        },
+        "payload_type": "FileFinderResult",
+        "timestamp": 1691766282269643
+      },
+      {
+        "client_id": "C.ca0a56f1e99762e8",
+        "payload": {
+          "stat_entry": {
+            "st_mode": 33206,
+            "st_ino": 23643898043718407,
+            "st_dev": 580475973,
+            "st_nlink": 1,
+            "st_uid": 0,
+            "st_gid": 0,
+            "st_size": 15,
+            "st_atime": 1691764700,
+            "st_mtime": 1691764346,
+            "st_ctime": 1691764700,
+            "st_flags_osx": 0,
+            "st_flags_linux": 0,
+            "pathspec": {
+              "pathtype": "OS",
+              "path": "/C:/app_apk/diva-apk-file-main/test/123.txt",
+              "path_options": "CASE_LITERAL"
+            }
+          },
+          "hash_entry": {
+            "sha256": "8osXxChGDRypSRAAvp4D91zD4a8+lsfumoGu/fVLZyA=",
+            "sha1": "LdzPuPuj6EGls6PzDPE16kgCH8o=",
+            "md5": "4nfdHgVoiiLjd+JaPa5d4Q==",
+            "num_bytes": 15
+          }
+        },
+        "payload_type": "FileFinderResult",
+        "timestamp": 1691766282269757
+      }
+    ],
+    "total_count": 2
+  }
+  
